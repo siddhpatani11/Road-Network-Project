@@ -1,0 +1,2 @@
+/usr/bin/ar qc libproject4.a CMakeFiles/project4.dir/src/color_walk.cpp.o CMakeFiles/project4.dir/src/color_walk2.cpp.o CMakeFiles/project4.dir/src/graph.cpp.o CMakeFiles/project4.dir/src/graph_app.cpp.o CMakeFiles/project4.dir/src/max_height.cpp.o CMakeFiles/project4.dir/src/scc.cpp.o
+/usr/bin/ranlib libproject4.a

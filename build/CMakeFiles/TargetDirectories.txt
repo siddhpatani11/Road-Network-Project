@@ -1,0 +1,4 @@
+/Users/siddhpatani/Downloads/startercode.0/build/CMakeFiles/project4.dir
+/Users/siddhpatani/Downloads/startercode.0/build/CMakeFiles/graph_app.dir
+/Users/siddhpatani/Downloads/startercode.0/build/CMakeFiles/edit_cache.dir
+/Users/siddhpatani/Downloads/startercode.0/build/CMakeFiles/rebuild_cache.dir

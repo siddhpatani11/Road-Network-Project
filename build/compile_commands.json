@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/siddhpatani/Downloads/startercode.0/build",
+  "command": "/usr/bin/clang++ -DNOMINMAX -I/Users/siddhpatani/Downloads/startercode.0/build -I/Users/siddhpatani/Downloads/startercode.0/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fPIC -o CMakeFiles/project4.dir/src/color_walk.cpp.o -c /Users/siddhpatani/Downloads/startercode.0/src/color_walk.cpp",
+  "file": "/Users/siddhpatani/Downloads/startercode.0/src/color_walk.cpp",
+  "output": "CMakeFiles/project4.dir/src/color_walk.cpp.o"
+},
+{
+  "directory": "/Users/siddhpatani/Downloads/startercode.0/build",
+  "command": "/usr/bin/clang++ -DNOMINMAX -I/Users/siddhpatani/Downloads/startercode.0/build -I/Users/siddhpatani/Downloads/startercode.0/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fPIC -o CMakeFiles/project4.dir/src/color_walk2.cpp.o -c /Users/siddhpatani/Downloads/startercode.0/src/color_walk2.cpp",
+  "file": "/Users/siddhpatani/Downloads/startercode.0/src/color_walk2.cpp",
+  "output": "CMakeFiles/project4.dir/src/color_walk2.cpp.o"
+},
+{
+  "directory": "/Users/siddhpatani/Downloads/startercode.0/build",
+  "command": "/usr/bin/clang++ -DNOMINMAX -I/Users/siddhpatani/Downloads/startercode.0/build -I/Users/siddhpatani/Downloads/startercode.0/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fPIC -o CMakeFiles/project4.dir/src/graph.cpp.o -c /Users/siddhpatani/Downloads/startercode.0/src/graph.cpp",
+  "file": "/Users/siddhpatani/Downloads/startercode.0/src/graph.cpp",
+  "output": "CMakeFiles/project4.dir/src/graph.cpp.o"
+},
+{
+  "directory": "/Users/siddhpatani/Downloads/startercode.0/build",
+  "command": "/usr/bin/clang++ -DNOMINMAX -I/Users/siddhpatani/Downloads/startercode.0/build -I/Users/siddhpatani/Downloads/startercode.0/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fPIC -o CMakeFiles/project4.dir/src/graph_app.cpp.o -c /Users/siddhpatani/Downloads/startercode.0/src/graph_app.cpp",
+  "file": "/Users/siddhpatani/Downloads/startercode.0/src/graph_app.cpp",
+  "output": "CMakeFiles/project4.dir/src/graph_app.cpp.o"
+},
+{
+  "directory": "/Users/siddhpatani/Downloads/startercode.0/build",
+  "command": "/usr/bin/clang++ -DNOMINMAX -I/Users/siddhpatani/Downloads/startercode.0/build -I/Users/siddhpatani/Downloads/startercode.0/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fPIC -o CMakeFiles/project4.dir/src/max_height.cpp.o -c /Users/siddhpatani/Downloads/startercode.0/src/max_height.cpp",
+  "file": "/Users/siddhpatani/Downloads/startercode.0/src/max_height.cpp",
+  "output": "CMakeFiles/project4.dir/src/max_height.cpp.o"
+},
+{
+  "directory": "/Users/siddhpatani/Downloads/startercode.0/build",
+  "command": "/usr/bin/clang++ -DNOMINMAX -I/Users/siddhpatani/Downloads/startercode.0/build -I/Users/siddhpatani/Downloads/startercode.0/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fPIC -o CMakeFiles/project4.dir/src/scc.cpp.o -c /Users/siddhpatani/Downloads/startercode.0/src/scc.cpp",
+  "file": "/Users/siddhpatani/Downloads/startercode.0/src/scc.cpp",
+  "output": "CMakeFiles/project4.dir/src/scc.cpp.o"
+},
+{
+  "directory": "/Users/siddhpatani/Downloads/startercode.0/build",
+  "command": "/usr/bin/clang++ -DNOMINMAX -I/Users/siddhpatani/Downloads/startercode.0/build -I/Users/siddhpatani/Downloads/startercode.0/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fPIE -o CMakeFiles/graph_app.dir/src/graph_app.cpp.o -c /Users/siddhpatani/Downloads/startercode.0/src/graph_app.cpp",
+  "file": "/Users/siddhpatani/Downloads/startercode.0/src/graph_app.cpp",
+  "output": "CMakeFiles/graph_app.dir/src/graph_app.cpp.o"
+}
+]

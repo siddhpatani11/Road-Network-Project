@@ -1,0 +1,7 @@
+Usage:
+    ./graph_app PART INPUT [EXPECTED]
+
+PART: Which part of the assignment to run: 1, 2, or 3
+INPUT: Path to input file
+EXPECTED: Path to expected file (only needed for part 2)
+
